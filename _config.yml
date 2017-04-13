@@ -1,0 +1,18 @@
+# Base configs
+baseurl: ""
+url: "http://photography.ramswaroop.me"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Fillipe Hott - Fotografia de palco"
+subtitle: ""
+author: "Fillipe Hott"
+bio: "Sou desenvolvedor front-end e apaixonado fotografia de palco, capturando espetáculos de teatro e dança em Belo Horizonte."
+social_urls:
+  facebook: "https://www.facebook.com/fillipehottm"
+  twitter: "https://www.twitter.com/fhott"
+  linkedin: "https://in.linkedin.com/in/fillipehottm"
+  github: "https://www.github.com/fhott"
+  
