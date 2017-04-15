@@ -1,5 +1,5 @@
 {
-  "name": "photography",
+  "name": "fhott-fotografia",
   "version": "2.0.1",
   "description": "A jekyll website for photographer cum developer",
   "main": "npmfile.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/fhott/fotografia.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,7 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
-  },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "author": "Fillipe Hott",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
