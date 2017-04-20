@@ -3,7 +3,7 @@ var imageResize = require('gulp-image-resize');
 var del = require('del');
 
 gulp.task('resize', function () {
-    return gulp.src('images/*.*')
+    return gulp.src('images/fotos-site/*.*')
         .pipe(imageResize({
             width: 1024,
             imageMagick: true
